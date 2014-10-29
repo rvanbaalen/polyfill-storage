@@ -1,0 +1,27 @@
+{
+  "name": "polyfill-storage",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rvanbaalen/polyfill-storage",
+  "authors": [
+    "Robin van Baalen <robin@neverwoods.com>"
+  ],
+  "description": "localStorage and sessionStorage polyfill by Remy Sharp",
+  "main": "dist/storage.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "localstorage",
+    "sessionstorage",
+    "storage",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
